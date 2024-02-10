@@ -1,5 +1,5 @@
 # Advantage-Conditioned Transformer
-This the official code for *ACT: Empowering Decision Transformer with Dynamic Programming via Advantage Conditioning*, which is accepted by AAAI 2024.
+This is the official code for [*ACT: Empowering Decision Transformer with Dynamic Programming via Advantage Conditioning*](https://arxiv.org/abs/2309.05915), which is accepted by AAAI 2024.
 
 ## Dependencies
 ```bash
