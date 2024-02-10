@@ -1,0 +1,9 @@
+**/__pycache__
+**/.vscode
+log*
+wandb
+scripts
+out
+inspect*
+datasets
+out_*
