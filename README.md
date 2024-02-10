@@ -42,7 +42,7 @@ Below are the commands for reproducing the results. Feel free to contact me if a
 ## Citation
 ```
 @inproceedings{act,
-  author = { Chen-Xiao Gao, Chenyang Wu, Mingjun Cao, Rui Kong, Zongzhang Zhang, Yang Yu}, 
+  author = {Chen-Xiao Gao, Chenyang Wu, Mingjun Cao, Rui Kong, Zongzhang Zhang, Yang Yu}, 
   title = {ACT: Empowering Decision Transformer with Dynamic Programming via Advantage Conditioning},
   booktitle = {Proceedings of the Thirty-Eighth {AAAI} Conference on Artificial Intelligence},
   year = {2024},
